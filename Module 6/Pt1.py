@@ -1,3 +1,4 @@
+# WIP
 import sys
 from datetime import datetime
 from datetime import time
@@ -13,6 +14,9 @@ def timeNow():
         print(data)'''
 
 timeNow()
+    
+# WIP
+# THIS IS NOT COMPLETE
     
 
 
